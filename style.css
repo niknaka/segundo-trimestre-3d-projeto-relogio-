@@ -83,6 +83,17 @@ body {
 .abas-conteudo{
     display: none;
 }
+
+.abas-conteudo-titulo-principal{
+    font-size: 28px;
+    text-align: center;
+}
+.abas-conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--verde);
+    text-transform: uppercase;
+}
+
 @media screen and (wid-width:768px){
     .botoes{
         display: flex;
